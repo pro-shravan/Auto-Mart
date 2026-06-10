@@ -15,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 ![image alt](https://github.com/pro-shravan/Auto-Mart/blob/master/ss1.jpeg?raw=true)
+![image alt](https://github.com/pro-shravan/Auto-Mart/blob/master/ss2.jpeg?raw=true)
+![image alt](https://github.com/pro-shravan/Auto-Mart/blob/master/ss3.jpeg?raw=true)
+![image alt](https://github.com/pro-shravan/Auto-Mart/blob/master/ss4.jpeg?raw=true)
+![image alt](https://github.com/pro-shravan/Auto-Mart/blob/master/ss5.jpeg?raw=true)
